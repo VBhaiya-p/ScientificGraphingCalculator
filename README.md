@@ -3,8 +3,6 @@
 ## Overview
 This project is an enhanced scientific graphing calculator built in Java using Swing. It allows users to evaluate mathematical expressions, solve equations, graph functions, and manage calculation history with save/load functionality.  
 
-Developed as a college-level CS180 project.
-
 ---
 
 ## Features
